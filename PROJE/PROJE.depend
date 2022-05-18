@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1611599594 source:c:\users\Ýnans\desktop\c masaüstü\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
